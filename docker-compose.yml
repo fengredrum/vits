@@ -1,0 +1,17 @@
+version: "3.9"
+
+services:
+  tts-demo:
+    build:
+      context: .
+      dockerfile: Dockerfile.cpu
+    image: oblivion208/tts-demo:0.1.0-cpu
+    container_name: tts
+    tty: true
+    ipc: "host"
+    ports:
+      - 8000:8000
+    working_dir: /app
+    volumes:
+      - ./:/app
+    command: bash

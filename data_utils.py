@@ -4,6 +4,8 @@ import random
 import numpy as np
 import torch
 import torch.utils.data
+import torchaudio
+import torchaudio.transforms as T
 
 import commons 
 from mel_processing import spectrogram_torch
@@ -63,11 +65,15 @@ class TextAudioLoader(torch.utils.data.Dataset):
         return (text, spec, wav)
 
     def get_audio(self, filename):
-        audio, sampling_rate = load_wav_to_torch(filename)
+        # audio, sampling_rate = load_wav_to_torch(filename)
+        audio_norm, sampling_rate = torchaudio.load(filename)
+        
         if sampling_rate != self.sampling_rate:
-            raise ValueError("{} {} SR doesn't match target {} SR".format(
-                sampling_rate, self.sampling_rate))
-        audio_norm = audio / self.max_wav_value
+            resampler = T.Resample(sampling_rate, self.sampling_rate, dtype=audio_norm.dtype)
+            audio_norm = resampler(audio_norm)
+            # raise ValueError("{} {} SR doesn't match target {} SR".format(
+            #     sampling_rate, self.sampling_rate))
+        # audio_norm = audio / self.max_wav_value
         audio_norm = audio_norm.unsqueeze(0)
         spec_filename = filename.replace(".wav", ".spec.pt")
         if os.path.exists(spec_filename):

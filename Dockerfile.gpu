@@ -5,7 +5,7 @@ RUN apt update && apt upgrade -y && \
     apt clean && rm -rf /var/lib/apt/lists/*
 # Install PyTorch
 RUN pip3 install --no-cache-dir --user \
-    torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu117
+    torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1+cu117 --extra-index-url https://download.pytorch.org/whl/cu117
 # Install dependencies
 COPY requirements.txt /
 RUN pip3 install --no-cache-dir --upgrade pip && \

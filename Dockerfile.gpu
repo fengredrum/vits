@@ -12,4 +12,5 @@ RUN pip3 install --no-cache-dir --upgrade pip && \
     pip3 install --no-cache-dir --user -r /requirements.txt
 # Make sure scripts in .local are usable:
 ENV TZ=Asia/Shanghai \
-    PATH=/root/.local/bin:$PATH
+    PATH=/root/.local/bin:$PATH \
+    PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python

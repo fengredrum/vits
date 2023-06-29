@@ -20,7 +20,7 @@ if __name__ == '__main__':
                         default=["filelists/ljs_audio_text_train_filelist.txt", "filelists/ljs_audio_text_val_filelist.txt"])
     parser.add_argument("--text_cleaners", nargs="+",
                         default=["english_cleaners2"])
-    parser.add_argument("--multiprocessing", default=False, type=bool)
+    parser.add_argument("--multiprocessing", default=True, type=bool)
 
     args = parser.parse_args()
 

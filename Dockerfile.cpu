@@ -16,6 +16,7 @@ RUN pip3 install --no-cache-dir --upgrade pip && \
 # # Stage 2: Runtime
 # FROM python:3.8-slim AS runtime-image
 # COPY --from=compile-image /root/.local /root/.local
-# # Make sure scripts in .local are usable:
-# ENV TZ=Asia/Shanghai \
-#     PATH=/root/.local/bin:$PATH
+# Make sure scripts in .local are usable:
+ENV TZ=Asia/Shanghai \
+    PATH=/root/.local/bin:$PATH \
+    PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python

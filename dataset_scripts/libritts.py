@@ -59,5 +59,6 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     for filepath in args.filelists:
-        args.outdir += filepath.split("/")[-1] + "_filelist.txt"
-        main(filepath, args.outdir)
+        new_filelist = args.outdir
+        new_filelist += filepath.split("/")[-1] + "_filelist.txt"
+        main(filepath, new_filelist)

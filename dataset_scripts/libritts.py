@@ -1,5 +1,7 @@
 import os
 import re
+import argparse
+
 from tqdm import tqdm
 
 
@@ -41,8 +43,14 @@ def main(dataset_path, output_dir):
 
 
 if __name__ == "__main__":
-    paths = ["./data/LibriTTS/dev-clean",]
-    for path in paths:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--outdir", default="./filelists/libritts_audio_text_")
+    parser.add_argument("--filelists", nargs="+",
+                        default=["./data/LibriTTS/dev-clean", "./data/LibriTTS/train-clean-100"])
+
+    args = parser.parse_args()
+
+    for filepath in args.filelists:
         new_filelist = "./filelists/libritts_audio_text_"
-        new_filelist += path.split("/")[-1] + ".txt"
-        main(path, new_filelist)
+        new_filelist += filepath.split("/")[-1] + ".txt"
+        main(filepath, new_filelist)

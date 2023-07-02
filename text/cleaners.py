@@ -16,6 +16,8 @@ import re
 from unidecode import unidecode
 from phonemizer import phonemize
 
+from text.mandarin import number_to_chinese, chinese_to_bopomofo, latin_to_bopomofo
+
 
 # Regular expression matching whitespace:
 _whitespace_re = re.compile(r'\s+')
@@ -98,3 +100,13 @@ def english_cleaners2(text):
   phonemes = phonemize(text, language='en-us', backend='espeak', strip=True, preserve_punctuation=True, with_stress=True)
   phonemes = collapse_whitespace(phonemes)
   return phonemes
+
+def chinese_cleaners(text):
+    '''Pipeline for Chinese text'''
+    text = re.sub(r'\s*%', '/', text)
+    text = re.sub('[$]', '/', text)
+    text = number_to_chinese(text)
+    text = chinese_to_bopomofo(text)
+    text = latin_to_bopomofo(text)
+    text = re.sub(r'([ˉˊˇˋ˙])$', r'\1。', text)
+    return text

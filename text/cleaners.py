@@ -16,7 +16,7 @@ import re
 from unidecode import unidecode
 from phonemizer import phonemize
 
-from text.mandarin import number_to_chinese, chinese_to_bopomofo, latin_to_bopomofo
+from text.mandarin import number_to_chinese, chinese_to_bopomofo, latin_to_bopomofo, chinese_to_ipa2
 
 
 # Regular expression matching whitespace:
@@ -109,4 +109,11 @@ def chinese_cleaners(text):
     text = chinese_to_bopomofo(text)
     text = latin_to_bopomofo(text)
     text = re.sub(r'([ˉˊˇˋ˙])$', r'\1。', text)
+    return text
+
+def mix_cleaners(text):
+    text = re.sub(r'\[ZH\](.*?)\[ZH\]',
+                  lambda x: chinese_to_ipa2(x.group(1))+' ', text)
+    text = re.sub(r'\s+$', '', text)
+    text = re.sub(r'([^\.,!\?\-…~])$', r'\1.', text)
     return text

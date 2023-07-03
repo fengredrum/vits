@@ -316,6 +316,8 @@ def chinese_to_ipa(text):
 
 
 def chinese_to_ipa2(text):
+    text = re.sub(r'\s*%', '/', text)
+    text = re.sub('[$]', '/', text)
     text = number_to_chinese(text)
     text = chinese_to_bopomofo(text)
     text = latin_to_bopomofo(text)

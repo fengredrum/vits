@@ -16,6 +16,7 @@ def get_audiopath_textnorm(filepath, filename):
         if len(l) > 1:
             try:
                 audio_path, pinyin, text = l.split("|")
+                text = "[ZH]" + text + "[ZH]"
                 reader_id = audio_path[:7]
                 if reader_id not in readers:
                     sid += 1

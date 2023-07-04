@@ -1,7 +1,7 @@
 FROM nvidia/cuda:11.7.1-cudnn8-runtime-ubuntu20.04 AS compile-image
 # Update and install packages
 RUN apt update && apt upgrade -y && \
-    apt install --no-install-recommends -y gcc gcc-multilib build-essential python3.8 python3-dev python3-pip espeak git tmux && \
+    apt install --no-install-recommends -y gcc gcc-multilib build-essential python3.8 python3-dev python3-pip espeak git tmux unzip && \
     apt clean && rm -rf /var/lib/apt/lists/*
 # Install PyTorch
 RUN pip3 install --no-cache-dir --user \
@@ -10,7 +10,13 @@ RUN pip3 install --no-cache-dir --user \
 COPY requirements.txt /
 RUN pip3 install --no-cache-dir --upgrade pip && \
     pip3 install --no-cache-dir --user -r /requirements.txt
+# Copy cantonese lexicon
+COPY opencc/jyutjyu.json /root/.local/lib/python3.8/site-packages/opencc/clib/share/opencc/jyutjyu.json
+COPY opencc/jyutjyu.ocd2 /root/.local/lib/python3.8/site-packages/opencc/clib/share/opencc/jyutjyu.ocd2
 # Make sure scripts in .local are usable:
 ENV TZ=Asia/Shanghai \
     PATH=/root/.local/bin:$PATH \
     PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
+# Copy datasets
+COPY datasets/Guangzhou_Cantonese_Scripted_Speech_Corpus_Daily_Use_Sentence.zip /datasets
+COPY datasets/Guangzhou_Cantonese_Scripted_Speech_Corpus_in_Vehicle.zip /datasets

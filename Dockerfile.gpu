@@ -18,5 +18,5 @@ ENV TZ=Asia/Shanghai \
     PATH=/root/.local/bin:$PATH \
     PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
 # Copy datasets
-COPY datasets/Guangzhou_Cantonese_Scripted_Speech_Corpus_Daily_Use_Sentence.zip /datasets
-COPY datasets/Guangzhou_Cantonese_Scripted_Speech_Corpus_in_Vehicle.zip /datasets
+COPY datasets/Guangzhou_Cantonese_Scripted_Speech_Corpus_Daily_Use_Sentence.zip /datasets/Guangzhou_Cantonese_Scripted_Speech_Corpus_Daily_Use_Sentence.zip
+COPY datasets/Guangzhou_Cantonese_Scripted_Speech_Corpus_in_Vehicle.zip /datasets/Guangzhou_Cantonese_Scripted_Speech_Corpus_in_Vehicle.zip

@@ -1,100 +1,100 @@
-./data/AISHELL-3/train/wav/SSB0043/SSB00430444.wav|0|tʂʰʅ˧˥tɕʰi˨˩˦ hʊŋ˧˥iŋ˥tɕʰiɑŋ˥ tʂweɪ˥kan˨˩˦ tweɪ˥˩fɑŋ˥ pan˥˩kʊŋ˥li˨˩˦.
-./data/AISHELL-3/train/wav/SSB0018/SSB00180296.wav|1|kwo˥˩pa˨˩˦in˨˩˦tɤ jɛn˨˩˦yæn˧˥ joʊ˨˩˦ʂən˧˥mɤ.
-./data/AISHELL-3/train/wav/SSB0057/SSB00570415.wav|2|fɑŋ˥˩i˥ʂoʊ˨˩˦ tɕʰiŋ˧˥kɤ˥.
-./data/AISHELL-3/train/wav/SSB0080/SSB00800019.wav|3|ɕiɑʊ˥˩yæn˧˥ tɕʰiŋ˥tʂʰwən˥ ɕiɑʊ˥˩yæn˧˥ ɕiɑʊ˨˩˦ʂwo˥ joʊ˨˩˦ʂən˧˥mɤ.
-./data/AISHELL-3/train/wav/SSB0057/SSB00570241.wav|2|ta˥˩tʂʅ˥˩hweɪ˥˩ a˥sɿ˥ ta˧˥kʰɤ˥˩ tʰʊŋ˥ɕyn˥˩ʂɤ˥˩.
-./data/AISHELL-3/train/wav/SSB0033/SSB00330113.wav|4|hu˧˥tɕja˥han˥˩yɛ˥˩.
-./data/AISHELL-3/train/wav/SSB0080/SSB00800207.wav|3|piɛ˧˥tswo˥˩ni˨˩˦ əɻ˧˥tstɤ tʂʰʅ˨˩˦ɻu˨˩˦.
-./data/AISHELL-3/train/wav/SSB0057/SSB00570300.wav|2|ʂʅ˧˥tɕi˥˩ tsɤ˧˥ʂʅ˥˩tsaɪ˥˩ i˥˩kwo˧˥ tʰa˥ɕiɑŋ˥ ʂʅ˥˩fɑŋ˥˩ tsʰɿ˨˩˦tɕʰjɛn˧˥tɤ tʂʊŋ˥˩ja˥.
-./data/AISHELL-3/train/wav/SSB0057/SSB00570073.wav|2|tʂʊŋ˥yæn˨˩˦tɕʰi˥ tjɛn˥˩tsɿ tɕiɑʊ˥i˥˩ tɕjoʊ˥˩ kʰɤ˨˩˦i˨˩˦ pɑŋ˥tʂu˥˩ nʊŋ˧˥tʂʰan˨˩˦pʰin˨˩˦ hɤ˧˥li˨˩˦ ljoʊ˧˥tʊŋ˥˩.
-./data/AISHELL-3/train/wav/SSB0016/SSB00160304.wav|5|tʰjɛn˥ tʂʅ˥hən˧˥.
-./data/AISHELL-3/train/wav/SSB0018/SSB00180057.wav|1|pa˥ɻən˧˥ weɪ˥˩ sʊŋ˥tʂʰʅ˧˥ san˥tʂʊŋ˥ kɑʊ˥əɻ˥˩ ɕyɛ˧˥ʂɤŋ˥.
-./data/AISHELL-3/train/wav/SSB0009/SSB00090249.wav|6|kɤŋ˥˩tʂʅ˨˩˦ tʂɤ˥˩ʂʅ˥˩ tɕja˥tʂɑŋ˨˩˦ tɕi˧˥ ʂɤ˥˩hweɪ˥˩tɤ tsɤ˧˥ɻən˥˩.
-./data/AISHELL-3/train/wav/SSB0009/SSB00090212.wav|6|kʰaɪ˥tʂʰɤ˥ man˥˩man˥˩ tɕʰjɛn˧˥ɕiŋ˧˥.
-./data/AISHELL-3/train/wav/SSB0080/SSB00800050.wav|3|ɕiɑŋ˥˩tʰa˥ tʂɤ˥˩iɑŋ˥˩tɤ weɪ˨˩˦ɕiɛ˥˩ kʰuɑŋ˧˥ kʰɤ˨˩˦nɤŋ˧˥ haɪ˥˩lɤ pu˥˩ʂɑʊ˨˩˦ɻən˧˥.
-./data/AISHELL-3/train/wav/SSB0033/SSB00330350.wav|4|kwan˥əɻ˨˩˦tɤ tjɛn˥˩iŋ˨˩˦ joʊ˨˩˦ʂən˧˥mɤ.
-./data/AISHELL-3/train/wav/SSB0080/SSB00800137.wav|3|lu˧˥tɕiɑŋ˥ɕjɛn˥˩ lu˧˥tɕiɑŋ˥tɤ tʂʊŋ˥ɕyɛ˧˥ joʊ˨˩˦ʂən˧˥mɤ.
-./data/AISHELL-3/train/wav/SSB0016/SSB00160310.wav|5|i˥tɕʰiɛ˥˩ toʊ˥ u˧˥kwan˥ tɕin˨˩˦iɑʊ˥˩lɤ.
-./data/AISHELL-3/train/wav/SSB0016/SSB00160130.wav|5|lin˧˥tʂʅ˥˩ɕyæn˥˩ yæn˧˥tʂʰɑŋ˥˩tɤ kɤ˥tɕʰy˨˩˦ joʊ˨˩˦ʂən˧˥mɤ.
-./data/AISHELL-3/train/wav/SSB0012/SSB00120498.wav|7|tʂɑʊ˥iɑŋ˧˥tɕʰy˥tɤ ɕiɑŋ˥tʂən˥˩ joʊ˨˩˦ʂən˧˥mɤ.
-./data/AISHELL-3/train/wav/SSB0057/SSB00570443.wav|2|tʂɤŋ˥lɤ pu˧˥tɑʊ˥˩ pa˥paɪ˨˩˦ kʰwaɪ˥˩tɕʰjɛn˧˥.
-./data/AISHELL-3/train/wav/SSB0018/SSB00180028.wav|1|in˧˥hɤ˧˥ɕi˥˩ man˥˩joʊ˧˥ tʂʅ˨˩˦nan˧˥.
-./data/AISHELL-3/train/wav/SSB0080/SSB00800161.wav|3|tʰa˥ʂʅ˥˩ i˧˥kɤ˥˩ pu˥˩tsʰwo˥˩tɤ haɪ˧˥tsɿ.
-./data/AISHELL-3/train/wav/SSB0033/SSB00330355.wav|4|kʰɤ˨˩˦nɤŋ˧˥ tɕjoʊ˥˩hweɪ˥˩ fa˥ʂɤŋ˥ i˥ɕiɛ˥ ɻən˧˥tɕjɛn˥ tsʰan˨˩˦tɕy˥˩.
-./data/AISHELL-3/train/wav/SSB0018/SSB00180086.wav|1|tɕiɑŋ˨˩˦i˥˩ tʂʰu˥jɛn˨˩˦tɤ tjɛn˥˩ʂʅ˥˩tɕy˥˩ joʊ˨˩˦ʂən˧˥mɤ.
-./data/AISHELL-3/train/wav/SSB0080/SSB00800326.wav|3|pa˥ʂʅ˧˥tɕʰi˥sweɪ˥˩ tʰjɛn˧˥hwa˧˥ əɻ˧˥tsɿ in˥ aɪ˧˥tʂɤŋ˥˩ tɕʰy˥˩ʂʅ˥˩ ɻən˨˩˦tʰʊŋ˥˩ kʊŋ˥tswo˥˩hoʊ˥˩ fɑŋ˥˩ʂɤŋ˥ ta˥˩kʰu˥.
-./data/AISHELL-3/train/wav/SSB0043/SSB00430233.wav|0|kʰɑŋ˥tʰan˨˩˦ fu˥ɻən˧˥ ni˨˩˦tɤ tʂwo˥tsɿ.
-./data/AISHELL-3/train/wav/SSB0018/SSB00180006.wav|1|lwo˧˥ma˨˩˦tɤ ʂu˥tɕi˧˥ joʊ˨˩˦ʂən˧˥mɤ.
-./data/AISHELL-3/train/wav/SSB0043/SSB00430110.wav|0|wo˨˩˦iɑʊ˥˩ hwa˥tjɛn˨˩˦ ʂʅ˧˥tɕjɛn˥ tʂwən˨˩˦peɪ˥˩ i˥ɕja˥˩.
-./data/AISHELL-3/train/wav/SSB0018/SSB00180242.wav|1|ɕi˥an˥ʂʅ˥˩tɤ kʊŋ˥yæn˧˥ joʊ˨˩˦ʂən˧˥mɤ.
-./data/AISHELL-3/train/wav/SSB0016/SSB00160094.wav|5|ɕi˥uɑŋ˥˩ tɑʊ˥˩ʂʅ˧˥ wo˨˩˦nɤŋ˧˥ tʂʰɤŋ˥tɤ˧˥tʂu˥˩.
-./data/AISHELL-3/train/wav/SSB0385/SSB03850404.wav|8|tan˥˩ ɻən˧˥li˥˩ tsɿ˥yæn˧˥ tʂwan˥tɕja˥ tʰi˧˥ɕiŋ˨˩˦.
-./data/AISHELL-3/train/wav/SSB0043/SSB00430479.wav|0|lu˧˥kʰa˨˩˦sɿ˥ ʂwo˥ lu˧˥kʰa˨˩˦sɿ˥ ʂɑŋ˥˩kwo˥˩ tɕjɛn˥˩kʰɑŋ˥kʰɤ˥˩.
-./data/AISHELL-3/train/wav/SSB0018/SSB00180273.wav|1|maɪ˥˩tɑŋ˥lɑʊ˧˥ ɻ˥˩yɛ˥˩kuɑŋ˥tjɛn˥˩.
-./data/AISHELL-3/train/wav/SSB0080/SSB00800376.wav|3|ni˨˩˦ tʂʅ˥tɑʊ˥˩ tʂɤ˥˩ɕiɛ˥ ʂu˥˩tsɿ˥˩tɤ i˥˩i˥˩ma.
-./data/AISHELL-3/train/wav/SSB0043/SSB00430101.wav|0|tʂʰən˧˥tʂʰʊŋ˥tʂʰu˥ jɛn˨˩˦tɤ tjɛn˥˩iŋ˨˩˦ joʊ˨˩˦ʂən˧˥mɤ.
-./data/AISHELL-3/train/wav/SSB0033/SSB00330329.wav|4|tɕʰiŋ˨˩˦pɑŋ˥wo˨˩˦ pa˨˩˦ wən˥tu˥˩ tʰiɑʊ˧˥tʂɤŋ˨˩˦tɑʊ˥˩ san˥ʂʅ˧˥tu˥˩.
-./data/AISHELL-3/train/wav/SSB0012/SSB00120395.wav|7|tswo˥˩ fu˥˩ʊŋ˥tɤ kan˨˩˦tɕyɛ˧˥ kʰɤ˨˩˦ʂʅ˥˩ hən˨˩˦hɑʊ˨˩˦tɤ.
-./data/AISHELL-3/train/wav/SSB0038/SSB00380099.wav|9|hwa˧˥ʂɤŋ˥˩ lwan˥˩twən˥˩ tɕiɑŋ˨˩˦ʂu˥˩ tʰa˥tsaɪ˥˩ na˥˩li˨˩˦tɤ tɕjɛn˥˩wən˧˥ tɕʰy˥˩ʂʅ˥˩.
-./data/AISHELL-3/train/wav/SSB0038/SSB00380280.wav|9|ɻɑŋ˥˩ ɕiɑʊ˨˩˦paɪ˧˥ jʊŋ˥˩hu˥˩ tɕjoʊ˥˩nɤŋ˧˥ ʂɤŋ˥tʂʰan˨˩˦.
-./data/AISHELL-3/train/wav/SSB0080/SSB00800146.wav|3|tsʰan˥tɕja˥ piɑʊ˨˩˦jɛn˨˩˦ tʂu˥˩ɕiŋ˥˩tɤ tɕiŋ˥tʊŋ˥ lwo˧˥ku˨˩˦ iɛ˨˩˦ʂʅ˥˩ tʰɤ˥˩tjɛn˨˩˦ ʂʅ˧˥tsu˧˥.
-./data/AISHELL-3/train/wav/SSB0011/SSB00110443.wav|10|tʰiɛ˥ɕin˥ pi˨˩˦ɻu˧˥ tʂʅ˥˩yæn˥˩tʂɤ˨˩˦ hweɪ˥˩ tɕʰin˥tsɿ˥˩ weɪ˥˩ wan˧˥saɪ˥˩tɤ tsʰan˥saɪ˥˩tʂɤ˨˩˦ tɕiɛ˨˩˦ɕin˥pʰjɛn˥˩.
-./data/AISHELL-3/train/wav/SSB0018/SSB00180450.wav|1|tʰa˥mənʂwo˥ iɑʊ˥˩tsoʊ˨˩˦ tɕi˨˩˦kɤ˥˩yɛ˥˩tɤ fa˨˩˦ly˥˩ ʂoʊ˨˩˦ɕy˥˩.
-./data/AISHELL-3/train/wav/SSB0073/SSB00730040.wav|11|tʂɑʊ˥˩weɪ˥tɤ kɤ˥.
-./data/AISHELL-3/train/wav/SSB0009/SSB00090182.wav|6|ɕiɑŋ˨˩˦iɑʊ˥˩ əɻ˥˩aɪ˥˩əɻ˨˩˦kʰən˨˩˦tɤ kɤ˥.
-./data/AISHELL-3/train/wav/SSB0080/SSB00800148.wav|3|kʰən˨˩˦tiŋ˥˩lɤ tɕin˥tʂʰuɑŋ˥˩i˥˩ tɕiɑŋ˨˩˦tɤ hɑŋ˧˥iɛ˥˩ iŋ˨˩˦ɕiɑŋ˨˩˦li˥˩.
-./data/AISHELL-3/train/wav/SSB0073/SSB00730321.wav|11|ta˥˩liɑŋ˥˩ ʂən˥tʂən˥˩kʰɤ˥˩ tɕin˥˩ɻu˥˩ tʊŋ˥kwan˨˩˦ tʂʅ˥˩iɛ˥˩.
-./data/AISHELL-3/train/wav/SSB0057/SSB00570288.wav|2|tɕʰi˥tjɛn˨˩˦ san˥liŋ˧˥sɿ˥˩.
-./data/AISHELL-3/train/wav/SSB0038/SSB00380127.wav|9|tʂʰɤŋ˧˥ɕjɛn˥˩tʂʰu˥ moʊ˨˩˦tʂʊŋ˨˩˦ tʂʰɤŋ˧˥tu˥˩tɤ weɪ˥swo˥ tʰaɪ˥˩ʂʅ˥˩.
-./data/AISHELL-3/train/wav/SSB0057/SSB00570029.wav|2|əɻ˧˥tɕʰiɛ˨˩˦ ɻu˧˥kwo˨˩˦ tɕiɑʊ˥i˥˩ swo˨˩˦tswo˥˩ta˥˩.
-./data/AISHELL-3/train/wav/SSB0038/SSB00380274.wav|9|weɪ˥˩ min˧˥fan˥˩tjɛn˥˩.
-./data/AISHELL-3/train/wav/SSB0011/SSB00110067.wav|10|ɑʊ˥˩yæn˧˥ tsoʊ˨˩˦ɻwo˥˩ joʊ˨˩˦li˥˩y˧˥ kɑʊ˥twan˥ ʂʅ˥˩tʂʰɑŋ˨˩˦tɤ ɕiɑʊ˥ʂoʊ˥˩.
-./data/AISHELL-3/train/wav/SSB0038/SSB00380233.wav|9|pɑʊ˨˩˦tɕjɛn˥hweɪ˥˩ tʰʊŋ˥pɑʊ˥˩ weɪ˧˥kweɪ˥ pɑʊ˨˩˦ɕjɛn˨˩˦ tɕi˥koʊ˥˩.
-./data/AISHELL-3/train/wav/SSB0057/SSB00570068.wav|2|joʊ˧˥y˧˥ ɤ˧˥lwo˧˥sɿ˥ pu˥˩lu˧˥ jɛn˧˥tʂʊŋ˥˩ pjɛn˨˩˦tʂʅ˧˥.
-./data/AISHELL-3/train/wav/SSB0080/SSB00800365.wav|3|u˨˩˦ta˨˩˦ jɛn˨˩˦yæn˧˥ joʊ˨˩˦ʂən˧˥mɤ.
-./data/AISHELL-3/train/wav/SSB0080/SSB00800182.wav|3|tweɪ˥˩ pʰin˧˥fu˥˩ fən˥hwa˥˩ tɕʰi˨˩˦tɑʊ˥˩ hwan˨˩˦tɕiɛ˨˩˦ tswo˥˩jʊŋ˥˩.
-./data/AISHELL-3/train/wav/SSB0080/SSB00800188.wav|3|ti˥˩i˧˥kɤ˥˩ tswo˥˩pʰin˨˩˦.
-./data/AISHELL-3/train/wav/SSB0012/SSB00120234.wav|7|nu˧˥kʰa˨˩˦sɿ˥ ʂʅ˥˩ u˧˥li˨˩˦tɤma.
-./data/AISHELL-3/train/wav/SSB0005/SSB00050282.wav|12|kaɪ˥ tɕʰy˥y˥˩ kwo˥˩tɕʰy˥˩ in˥weɪ˥˩ tɕiɑʊ˥tʰʊŋ˥ hɤ˧˥ pʰeɪ˥˩tʰɑʊ˥˩ lwo˥˩hoʊ˥˩ əɻ˧˥ pu˥˩ʂoʊ˥˩ tʂʊŋ˥˩ʂʅ˥˩.
-./data/AISHELL-3/train/wav/SSB0012/SSB00120057.wav|7|ɕin˥sɿ˥lan˧˥tɤ tʊŋ˥˩u˥˩ joʊ˨˩˦ʂən˧˥mɤ.
-./data/AISHELL-3/train/wav/SSB0018/SSB00180247.wav|1|tɕjoʊ˨˩˦ljoʊ˥˩ ʂɑŋ˥˩ haɪ˨˩˦tʰan˥.
-./data/AISHELL-3/train/wav/SSB0018/SSB00180157.wav|1|iɛ˥˩tɕja˨˩˦kʰɤ˥ kʰwən˥tʂʰʊŋ˧˥ joʊ˨˩˦ʂən˧˥mɤ.
-./data/AISHELL-3/train/wav/SSB0011/SSB00110230.wav|10|tɕin˨˩˦kwan˨˩˦ li˨˩˦tɕja˥tʂʰɤŋ˧˥ tsaɪ˥˩san˥ tɕʰiɑŋ˧˥tiɑʊ˥˩ pu˧˥hweɪ˥˩ tɕʰjɛn˥tsʰɤ˥˩.
-./data/AISHELL-3/train/wav/SSB0033/SSB00330125.wav|4|hɤŋ˥li˥˩tɤ əɻ˧˥tsɿ tɑŋ˥ʂʅ˧˥ tsaɪ˥˩tʂʰɑŋ˨˩˦ma.
-./data/AISHELL-3/train/wav/SSB0057/SSB00570120.wav|2|əɻ˥˩ɕjɛn˥˩ tʂʰɤŋ˧˥ʂʅ˥˩ tʰu˨˩˦ti˥˩ tʂʰɤŋ˧˥tɕiɑʊ˥ pʰiŋ˧˥tɕyn˥ i˥˩tɕja˥˩ly˥˩ paɪ˨˩˦fən˥ tʂʅ˥tɕʰi˥.
-./data/AISHELL-3/train/wav/SSB0057/SSB00570295.wav|2|swən˥iɑʊ˥˩weɪ˥.
-./data/AISHELL-3/train/wav/SSB0073/SSB00730275.wav|11|y˧˥tʰaɪ˧˥ɕjɛn˥˩ tʂʰoʊ˧˥tɕi˧˥tʂən˥˩ weɪ˥˩ʂɤŋ˥yæn˥˩.
-./data/AISHELL-3/train/wav/SSB0057/SSB00570363.wav|2|tʰjɛn˧˥tʂən˥˩.
-./data/AISHELL-3/train/wav/SSB0382/SSB03820267.wav|13|tʰjɛn˥waɪ˥˩ feɪ˥ɕjɛn˥.
-./data/AISHELL-3/train/wav/SSB0080/SSB00800416.wav|3|tɕiŋ˥kʰɤ˥˩lʊŋ˧˥ tʂʰɑʊ˥ʂʅ˥˩ ɕi˥peɪ˥˩hɤ˧˥tjɛn˥˩.
-./data/AISHELL-3/train/wav/SSB0080/SSB00800168.wav|3|kʰu˥˩pwo˧˥ tsʰʊŋ˧˥ tʂʊŋ˥kwo˧˥ laɪ˧˥lɤ.
-./data/AISHELL-3/train/wav/SSB0080/SSB00800298.wav|3|maɪ˥˩tɑŋ˥lɑʊ˧˥ hwa˧˥weɪ˥tjɛn˥˩.
-./data/AISHELL-3/train/wav/SSB0057/SSB00570431.wav|2|soʊ˥hu˧˥ y˧˥lɤ˥˩ɕyn˥˩ tɕy˥˩ tʰaɪ˧˥wan˥ meɪ˧˥tʰi˨˩˦ pɑʊ˥˩tɑʊ˥˩.
-./data/AISHELL-3/train/wav/SSB0057/SSB00570233.wav|2|li˨˩˦kʰɤ˥˩tɕʰiɑŋ˧˥.
-./data/AISHELL-3/train/wav/SSB0057/SSB00570049.wav|2|peɪ˥˩ ɻən˥˩weɪ˧˥ ʂʅ˥˩i˥tʂʊŋ˨˩˦ liŋ˥˩joʊ˨˩˦ ʂən˥i˥˩tɤ an˥˩ʂʅ˥˩.
-./data/AISHELL-3/train/wav/SSB0073/SSB00730389.wav|11|kʰwən˥miŋ˧˥ʂʅ˥˩ tɕjɛn˨˩˦tʂʰa˧˥yæn˥˩ ɻən˥˩weɪ˧˥ tsʰɿ˨˩˦an˥˩ i˥ʂən˨˩˦ pʰan˥˩tɕyɛ˧˥ joʊ˨˩˦u˥˩.
-./data/AISHELL-3/train/wav/SSB0033/SSB00330373.wav|4|tswo˥˩tɕja˥ hwa˥˩tɕja˥ joʊ˨˩˦ʂən˧˥mɤ.
-./data/AISHELL-3/train/wav/SSB0038/SSB00380126.wav|9|pɑʊ˨˩˦i˥˩ tɕiɑʊ˥˩tʂʰɤ˥ ɕjoʊ˥li˨˩˦.
-./data/AISHELL-3/train/wav/SSB0057/SSB00570473.wav|2|y˨˩˦ ɕjɛn˥˩taɪ˥˩ pɑʊ˨˩˦ɕjɛn˨˩˦ fu˧˥u˥˩iɛ˥˩tɤ iɑʊ˥tɕʰjoʊ˧˥ haɪ˧˥joʊ˨˩˦ tɕiɑʊ˥˩ta˥˩ tʂʰa˥tɕy˥˩.
-./data/AISHELL-3/train/wav/SSB0033/SSB00330481.wav|4|hu˧˥ɕyɛ˨˩˦jɛn˧˥ tʂʰən˧˥tɑʊ˥˩miŋ˧˥pan˨˩˦.
-./data/AISHELL-3/train/wav/SSB0080/SSB00800332.wav|3|ti˧˥tɕyn˥tɤ tʰweɪ˥tɕin˥˩ tsɑʊ˥tɑʊ˥˩lɤ ɤ˥˩tʂʅ˨˩˦.
-./data/AISHELL-3/train/wav/SSB0057/SSB00570150.wav|2|taɪ˥˩tʂʅ˥˩ tɕʰi˥yɛ˥˩ əɻ˥˩san˥ɻ˥˩ i˥u˨˩˦ʂʅ˧˥.
-./data/AISHELL-3/train/wav/SSB0012/SSB00120195.wav|7|ni˨˩˦iɑʊ˥˩ tɕin˨˩˦kʰwaɪ˥˩ hweɪ˥fu˥˩ fan˨˩˦kʰʊŋ˨˩˦ ɕiɑʊ˨˩˦tstɤ uɑŋ˨˩˦lwo˥˩.
-./data/AISHELL-3/train/wav/SSB0038/SSB00380119.wav|9|in˥weɪ˥˩ iɛ˨˩˦ɕy˨˩˦ tɕjoʊ˥˩ tsaɪ˥˩iɛ˨˩˦ tɕjɛn˥˩pu˧˥tɑʊ˥˩ ni˨˩˦.
-./data/AISHELL-3/train/wav/SSB0016/SSB00160365.wav|5|tɕin˥ɕjoʊ˥˩meɪ˨˩˦tɤ tjɛn˥˩iŋ˨˩˦ joʊ˨˩˦ʂən˧˥mɤ.
-./data/AISHELL-3/train/wav/SSB0043/SSB00430204.wav|0|weɪ˥˩tʂʰən˧˥tɤ kɤ˥tɕʰy˨˩˦ joʊ˨˩˦ʂən˧˥mɤ.
-./data/AISHELL-3/train/wav/SSB0012/SSB00120309.wav|7|soʊ˥hu˧˥ y˧˥lɤ˥˩ɕyn˥˩ tɕin˥˩ɻ˥˩.
-./data/AISHELL-3/train/wav/SSB0057/SSB00570226.wav|2|in˥ ʂɤ˥˩ɕjɛn˧˥ ʂɤŋ˥tʂʰan˨˩˦ ɕiɑʊ˥ʂoʊ˥˩ joʊ˨˩˦tu˧˥ joʊ˨˩˦haɪ˥˩ ʂʅ˧˥pʰin˨˩˦tsweɪ˥˩.
-./data/AISHELL-3/train/wav/SSB0385/SSB03850134.wav|8|wan˥˩kʰɤ˥ ʂʅ˥˩ tɕʰyæn˧˥kwo˧˥ ʂoʊ˨˩˦kɤ˥˩ tʂu˥˩tʂaɪ˧˥ ɕiɑʊ˥ʂoʊ˥˩ tʂʰɑʊ˥kwo˥˩ tɕʰjɛn˥i˥˩tɤ fɑŋ˧˥tɕʰi˨˩˦.
-./data/AISHELL-3/train/wav/SSB0038/SSB00380434.wav|9|tʂɤŋ˥tɕi˧˥ mu˥˩tɕi˥tʂɤ˨˩˦ i˨˩˦tʂɤŋ˥˩ tɕʰiŋ˥paɪ˧˥tɤ ɕiɑʊ˥ɕi˥ in˨˩˦fa˥ uɑŋ˨˩˦joʊ˨˩˦ ɻɤ˥˩i˥˩.
-./data/AISHELL-3/train/wav/SSB0033/SSB00330074.wav|4|na˥˩wo˨˩˦ ɕjɛn˥˩tsaɪ˥˩ tʂɤŋ˥˩ʂʅ˥˩ kən˥ni˨˩˦ tɑʊ˥˩tɕʰjɛn˥˩.
-./data/AISHELL-3/train/wav/SSB0080/SSB00800305.wav|3|tsɤ˧˥keɪ˨˩˦ ɕjɛn˥˩tʂʰɑŋ˨˩˦ kwan˥tʂʊŋ˥˩ taɪ˥˩laɪ˧˥ i˥tʂʊŋ˨˩˦ meɪ˨˩˦tɤ ɕiɑŋ˨˩˦ʂoʊ˥˩.
-./data/AISHELL-3/train/wav/SSB0005/SSB00050487.wav|12|ʂʅ˥˩ hwo˥˩tɤ˧˥ kaɪ˥tɕiɑŋ˨˩˦ tsweɪ˥˩two˥tɤ ny˨˩˦jɛn˨˩˦yæn˧˥.
-./data/AISHELL-3/train/wav/SSB0005/SSB00050229.wav|12|tʂʰan˨˩˦pʰin˨˩˦ iɛ˨˩˦ tɕi˥hu˥ toʊ˥i˨˩˦ piɛ˧˥iɛ˨˩˦ weɪ˧˥tʂu˨˩˦.
-./data/AISHELL-3/train/wav/SSB0073/SSB00730122.wav|11|iɛ˨˩˦joʊ˨˩˦ pu˥˩ʂɑʊ˨˩˦ ʂən˥tʂən˥˩kʰɤ˥˩ tsaɪ˥˩ tʊŋ˥kwan˨˩˦ koʊ˥˩fɑŋ˧˥ hoʊ˥˩hweɪ˨˩˦.
-./data/AISHELL-3/train/wav/SSB0009/SSB00090486.wav|6|tsʰɿ˨˩˦ti˥˩tɤ kwo˧˥uɑŋ˧˥ ʂʅ˥˩i˧˥kɤ˥˩ tʰwo˧˥peɪ˥˩ ɕiɑʊ˨˩˦lɑʊ˨˩˦tʰoʊ˧˥.
-./data/AISHELL-3/train/wav/SSB0043/SSB00430171.wav|0|niŋ˧˥tsɤ˧˥tʰɑʊ˥tɤ fan˨˩˦iŋ˥˩ ʂʅ˧˥tɕjɛn˥ ʂʅ˥˩ liŋ˧˥tjɛn˨˩˦ ljoʊ˥˩tɕʰi˥miɑʊ˨˩˦.
-./data/AISHELL-3/train/wav/SSB0057/SSB00570212.wav|2|ɕiɑŋ˥kwan˥ kʊŋ˥sɿ˥ ku˨˩˦pʰiɑʊ˥˩ tsoʊ˨˩˦ʂʅ˥˩ nʊŋ˧˥tʂʰan˨˩˦pʰin˨˩˦.
-./data/AISHELL-3/train/wav/SSB0057/SSB00570386.wav|2|mu˥˩tɕʰjɛn˧˥ jʊŋ˥˩hu˥˩ tweɪ˥˩ kʰʊŋ˥tɕʰi˥˩ tʂʅ˥˩liɑŋ˥˩ man˨˩˦i˥˩tu˥˩ pʰu˨˩˦pjɛn˥˩ tɕiɑʊ˥˩ti˥.
-./data/AISHELL-3/train/wav/SSB0012/SSB00120103.wav|7|i˥i˥˩ pa˥tɕʰjɛn˥ i˥˩paɪ˨˩˦ ljoʊ˥˩ʂʅ˧˥san˥wan˥˩ u˨˩˦tɕʰjɛn˥ san˥paɪ˨˩˦ san˥ʂʅ˧˥tɕjoʊ˨˩˦.
-./data/AISHELL-3/train/wav/SSB0043/SSB00430395.wav|0|əɻ˧˥ni˨˩˦ swo˨˩˦tswo˥˩tɤ.
+./data/AISHELL-3/train/wav/SSB0686/SSB06860235.wav|0|tɕjoʊ˨˩˦tʂoʊ˥tɤ tswo˥˩tɕja˥ joʊ˨˩˦ʂən˧˥mɤ.
+./data/AISHELL-3/train/wav/SSB0482/SSB04820047.wav|1|fan˨˩˦əɻ˧˥ keɪ˨˩˦ i˥ɕiɛ˥ njɛn˧˥tɕʰiŋ˥ ɕyæn˨˩˦ʂoʊ˨˩˦ tʰi˧˥kʊŋ˥lɤ liɑŋ˥˩ɕiɑŋ˥˩ pɑʊ˥˩kuɑŋ˥tɤ tɕi˥hweɪ˥˩.
+./data/AISHELL-3/train/wav/SSB0354/SSB03540369.wav|2|hɤ˧˥tswo˥˩ kʊŋ˥˩iŋ˧˥tɤ tɕʰi˨˩˦iɛ˥˩ joʊ˨˩˦ʂən˧˥mɤ.
+./data/AISHELL-3/train/wav/SSB0315/SSB03150451.wav|3|wo˨˩˦kwo˧˥ tɕy˥min˧˥ ɕiɑʊ˥feɪ˥˩ ɻɤ˥˩tjɛn˨˩˦ sweɪ˧˥ ʂoʊ˥ɻu˥˩ tsɤŋ˥tʂɑŋ˨˩˦ hɤ˧˥ hʊŋ˧˥kwan˥ tɕiŋ˥tɕi˥˩ ɕiŋ˧˥ʂʅ˥˩ pu˥˩twan˥˩ pjɛn˥˩hwa˥˩.
+./data/AISHELL-3/train/wav/SSB1125/SSB11250180.wav|4|tʰa˥hweɪ˥˩ li˥˩kʰɤ˥˩ tswo˥˩tʂʰu˥ ɕyæn˨˩˦tsɤ˧˥.
+./data/AISHELL-3/train/wav/SSB1555/SSB15550116.wav|5|nan˧˥tsɿ sɿ˥˩tʂʰɤŋ˧˥ i˥˩paɪ˨˩˦mi˨˩˦ tɕiɛ˥li˥˩.
+./data/AISHELL-3/train/wav/SSB0534/SSB05340303.wav|6|pjɛn˥˩wən˥ wən˥tu˥˩ ʂɤ˥˩weɪ˥˩ u˨˩˦ʂɤ˥˩ʂʅ˥˩tu˥˩.
+./data/AISHELL-3/train/wav/SSB0341/SSB03410328.wav|7|tʰʊŋ˧˥ʂʅ˧˥ tsaɪ˥˩ tɕi˥˩ʂu˥˩ʂɑŋ˥˩ joʊ˥˩ joʊ˨˩˦swo˨˩˦ tʰu˥pʰwo˥˩tɤ tswo˥˩pʰin˨˩˦.
+./data/AISHELL-3/train/wav/SSB1699/SSB16990294.wav|8|kuɑŋ˨˩˦tʊŋ˥tɕi˧˥tɤ kwo˧˥tɕja˥tweɪ˥˩ mɤŋ˨˩˦tɕiɑŋ˥˩ tʂɑŋ˥tɕja˥weɪ˨˩˦ ta˨˩˦man˨˩˦ ʂʅ˧˥əɻ˥˩ hweɪ˧˥hɤ˧˥.
+./data/AISHELL-3/train/wav/SSB1624/SSB16240038.wav|9|ʂuɑŋ˥fɑŋ˥tɤ tɕiŋ˥tɕi˥˩ kʊŋ˥sɿ˥ iɛ˨˩˦toʊ˥ meɪ˧˥joʊ˨˩˦ keɪ˨˩˦tʂʰu˥ hweɪ˧˥iŋ˥˩.
+./data/AISHELL-3/train/wav/SSB0299/SSB02990058.wav|10|tɕʰiŋ˥tʂʰwən˥ ɕiɑʊ˥˩yæn˧˥ ɕiɑʊ˥˩yæn˧˥ ɕiɑʊ˨˩˦ʂwo˥ joʊ˨˩˦ʂən˧˥mɤ.
+./data/AISHELL-3/train/wav/SSB1563/SSB15630439.wav|11|tʰɑŋ˧˥tɕi˥˩li˨˩˦ tʂʰu˥jɛn˨˩˦tɤ tjɛn˥˩iŋ˨˩˦ joʊ˨˩˦ʂən˧˥mɤ.
+./data/AISHELL-3/train/wav/SSB1863/SSB18630115.wav|12|tweɪ˥˩jʊŋ˥joʊ˨˩˦ i˥tʰɑʊ˥˩ tʂu˥˩fɑŋ˧˥ piŋ˥˩i˨˩˦ tɕiɛ˧˥tɕʰiŋ˥ ɕiɑŋ˥iŋ˥˩ koʊ˥˩fɑŋ˧˥ taɪ˥˩kʰwan˨˩˦tɤ tɕy˥min˧˥ tɕja˥tʰiŋ˧˥.
+./data/AISHELL-3/train/wav/SSB0323/SSB03230424.wav|13|kwo˧˥neɪ˥˩ kʰɤ˨˩˦ tʂʰwan˥taɪ˥˩ ʂʅ˥˩tʂʰɑŋ˨˩˦ mu˥˩tɕʰjɛn˧˥tɤ tɕʰiŋ˧˥kʰuɑŋ˥˩ tɑʊ˥˩ti˨˩˦ ɻu˧˥hɤ˧˥.
+./data/AISHELL-3/train/wav/SSB0534/SSB05340483.wav|6|əɻ˧˥tɕʰiɛ˨˩˦ kʰɤ˥lin˧˥ iɛ˨˩˦ʂʅ˥˩ tsweɪ˥˩pu˥˩ kʰɤ˨˩˦nɤŋ˧˥.
+./data/AISHELL-3/train/wav/SSB1832/SSB18320451.wav|14|tʂʰɑʊ˥tʂɤŋ˥˩mjɛn˥˩ tʰaɪ˥˩tu˥˩ ɻɑŋ˥˩ uɑŋ˨˩˦joʊ˨˩˦ i˧˥tʂʅ˥˩ tɕiɑʊ˥˩hɑʊ˨˩˦.
+./data/AISHELL-3/train/wav/SSB0342/SSB03420375.wav|15|ɕiŋ˥˩fu˧˥ ɻən˧˥tɕja˥.
+./data/AISHELL-3/train/wav/SSB1585/SSB15850192.wav|16|tsaɪ˥˩ tsʰɿ˨˩˦leɪ˥˩ pu˥˩tʊŋ˥˩tʂʰan˨˩˦ fan˥˩weɪ˧˥neɪ˥˩.
+./data/AISHELL-3/train/wav/SSB1024/SSB10240357.wav|17|swo˨˩˦i˨˩˦ tsʰʊŋ˧˥ i˧˥kɤ˥˩ tɕi˥˩ʂu˥˩ kʊŋ˥sɿ˥tɤ tɕiɑʊ˨˩˦tu˥˩ laɪ˧˥ʂwo˥.
+./data/AISHELL-3/train/wav/SSB0966/SSB09660071.wav|18|sʊŋ˥˩tʂʰɑʊ˧˥ ʂʅ˥tsʰɿ˧˥ joʊ˨˩˦ʂən˧˥mɤ.
+./data/AISHELL-3/train/wav/SSB0354/SSB03540513.wav|2|lin˧˥fən˧˥tɤ tɕiŋ˨˩˦tjɛn˨˩˦ joʊ˨˩˦ʂən˧˥mɤ.
+./data/AISHELL-3/train/wav/SSB0666/SSB06660287.wav|19|tɕi˥˩ɻan˧˥ʂʅ˥˩ tɕiŋ˥˩tsʰaɪ˨˩˦.
+./data/AISHELL-3/train/wav/SSB0778/SSB07780100.wav|20|sɿ˥˩u˨˩˦lu˥˩ u˧˥ɻən˧˥ ʂoʊ˥˩pʰiɑʊ˥˩ tʂʊŋ˥kwo˧˥tʂu˥ swan˥˩ pwo˧˥u˥˩ kwan˨˩˦tʂan˥˩.
+./data/AISHELL-3/train/wav/SSB0299/SSB02990362.wav|10|pu˧˥iɑʊ˥˩ pʰɑʊ˨˩˦tʰi˧˥ma.
+./data/AISHELL-3/train/wav/SSB1563/SSB15630101.wav|11|pjɛn˥˩ wən˥ʂʅ˥˩ wən˥tu˥˩ tiɑʊ˥˩tʂʅ˥˩ liŋ˧˥ɕja˥˩ tɕʰi˥ʂɤ˥˩ʂʅ˥˩tu˥˩.
+./data/AISHELL-3/train/wav/SSB0720/SSB07200471.wav|21|tʰiŋ˥kɤ˥tɕʰy˨˩˦ peɪ˥˩ i˧˥uɑŋ˥˩tɤ ʂʅ˧˥kuɑŋ˥.
+./data/AISHELL-3/train/wav/SSB0193/SSB01930085.wav|22|han˥˩tʂʰɤŋ˧˥tɤ tɕiŋ˨˩˦tjɛn˨˩˦ joʊ˨˩˦ʂən˧˥mɤ.
+./data/AISHELL-3/train/wav/SSB1100/SSB11000368.wav|23|tsʰʊŋ˧˥ tʂan˥˩liŋ˨˩˦tɕʰy˥ tʂʰɤ˥˩tɕyn˥.
+./data/AISHELL-3/train/wav/SSB1024/SSB10240390.wav|17|hɤ˧˥ iŋ˥tʰɤ˥˩əɻ˨˩˦ i˥˩tɕʰi˨˩˦ fa˥pu˥˩lɤ hən˨˩˦two˥ tʂʰan˨˩˦pʰin˨˩˦.
+./data/AISHELL-3/train/wav/SSB0241/SSB02410121.wav|24|lin˧˥ɕi˥ ɕiɑʊ˨˩˦ɕyɛ˧˥.
+./data/AISHELL-3/train/wav/SSB1555/SSB15550089.wav|5|pjɛn˥˩ wən˥ʂʅ˥˩ wən˥tu˥˩ ʂɤ˥˩weɪ˥˩ liŋ˧˥ɕja˥˩ ʂʅ˧˥tɕʰi˥ ʂɤ˥˩ʂʅ˥˩tu˥˩tɑŋ˥˩.
+./data/AISHELL-3/train/wav/SSB0354/SSB03540043.wav|2|yɛ˥han˥˩ pu˥˩ɕiɑŋ˨˩˦ ɻɑŋ˥˩ɻən˧˥ tɕyɛ˧˥tɤ tsɿ˥˩tɕi˨˩˦ ʂʅ˥˩tsaɪ˥˩ tʰɑʊ˥˩hwa˥˩.
+./data/AISHELL-3/train/wav/SSB0435/SSB04350250.wav|25|hwo˧˥yɛ˥˩tʂɤ i˥pʰi˥ ta˨˩˦tʂɤ kʊŋ˥i˥˩ jɛn˥˩fɑŋ˧˥ kʊŋ˥i˥˩ liɑŋ˥˩fɑŋ˧˥ tɕʰi˧˥hɑʊ˥˩tɤɻən˧˥.
+./data/AISHELL-3/train/wav/SSB0482/SSB04820305.wav|1|i˥˩tɕʰi˨˩˦tʂʰɑŋ˥˩.
+./data/AISHELL-3/train/wav/SSB0535/SSB05350115.wav|26|fɑŋ˥ɕiŋ˥ tɤ˧˥i˨˩˦ pa˨˩˦ ʂʅ˥˩iɛ˨˩˦ kʰwo˥˩ta˥˩ tɑʊ˥˩ tʂɤŋ˨˩˦kɤ˥˩ ʂɤ˥˩tɕʰy˥ hɤ˧˥ tʂɤŋ˨˩˦kɤ˥˩ ʂɤ˥˩tɕi˥˩ tɕjɛn˥˩tsɑʊ˥˩ ljoʊ˧˥tʂʰɤŋ˧˥tʂʊŋ˥.
+./data/AISHELL-3/train/wav/SSB0570/SSB05700406.wav|27|i˥˩tu˥˩ ɕjʊŋ˥tɕʰiŋ˧˥.
+./data/AISHELL-3/train/wav/SSB0200/SSB02000430.wav|28|tɕʰi˧˥ʂʅ˧˥ tʂʅ˨˩˦ʂʅ˥˩ miŋ˧˥ hɑʊ˨˩˦ɕin˥ lu˥˩ɻən˧˥.
+./data/AISHELL-3/train/wav/SSB0470/SSB04700075.wav|29|ɕiɑŋ˥ɕin˥˩ kʰwən˥liŋ˧˥tɤ tʰʊŋ˧˥njɛn˧˥ i˧˥tiŋ˥˩ kwo˥˩tɤ˧˥ hɑʊ˨˩˦kʰaɪ˥ɕin˥.
+./data/AISHELL-3/train/wav/SSB1670/SSB16700177.wav|30|pwo˧˥əɻ˨˩˦tʰɤ˥˩ iɛ˨˩˦hən˨˩˦joʊ˨˩˦ kʰɤ˨˩˦nɤŋ˧˥ tʂan˥˩ʂɤŋ˥˩tʰa˥.
+./data/AISHELL-3/train/wav/SSB1585/SSB15850135.wav|16|kʊŋ˥ɕi˨˩˦ su˥piŋ˨˩˦tʰjɛn˥ tsaɪ˥˩tsʰɿ˥˩ jʊŋ˨˩˦pʰwo˥˩ ʂʅ˧˥miɑʊ˨˩˦ ta˥˩kwan˥.
+./data/AISHELL-3/train/wav/SSB1567/SSB15670425.wav|31|i˨˩˦ tɕʰiɛ˥˩ʂʅ˧˥ weɪ˧˥hu˥˩ tɕjɛn˥˩kʰɑŋ˥ joʊ˨˩˦ɕy˥˩tɤ ʂʅ˥˩tʂʰɑŋ˨˩˦ kweɪ˥fan˥˩hwa˥˩ hwa˥˩tɕiɛ˨˩˦ fɤŋ˥ɕjɛn˨˩˦ weɪ˥˩tɕi˥tʂʰu˨˩˦.
+./data/AISHELL-3/train/wav/SSB0919/SSB09190385.wav|32|tʂʰan˨˩˦iɛ˥˩ tɕi˥ti˥˩ tɕi˥pən˨˩˦ i˨˩˦tɕiŋ˥ tɕʰiɑʊ˥tiŋ˥˩.
+./data/AISHELL-3/train/wav/SSB1684/SSB16840427.wav|33|ny˨˩˦ta˥˩ ɕyɛ˧˥ʂɤŋ˥ tɕʰi˧˥tʂʰɤ˥ tɕiŋ˥kwo˥˩ lɑʊ˨˩˦ɻən˧˥ʂʅ˧˥ ɕiɑŋ˥hu˥˩ joʊ˨˩˦ tɕiɛ˥tʂʰu˥˩.
+./data/AISHELL-3/train/wav/SSB0080/SSB00800183.wav|34|mwo˥˩taɪ˥˩ huɑŋ˧˥ti˥˩ jɛn˨˩˦yæn˧˥ joʊ˨˩˦ʂən˧˥mɤ.
+./data/AISHELL-3/train/wav/SSB1585/SSB15850155.wav|16|iŋ˥tsʰaɪ˧˥ ʂɑŋ˥ʂa˥˩ tʰiŋ˧˥tʂʰɤ˥tʂʰɑŋ˨˩˦.
+./data/AISHELL-3/train/wav/SSB0606/SSB06060209.wav|35|tsʰaɪ˨˩˦mwo˧˥ku˥ tɤ ɕiɑʊ˨˩˦ku˥niɑŋ˧˥.
+./data/AISHELL-3/train/wav/SSB0341/SSB03410035.wav|7|na˥˩tʂʅ˨˩˦ ɕiɑʊ˨˩˦tʰi˧˥tɕʰin˧˥tɤ in˥sɤ˥˩ hən˨˩˦meɪ˨˩˦.
+./data/AISHELL-3/train/wav/SSB0588/SSB05880050.wav|36|haɪ˧˥kʰɤ˨˩˦ kʰan˥˩tɕjɛn˥˩ pɑʊ˨˩˦pɑʊ˨˩˦ miŋ˧˥ɕjɛn˨˩˦ tʊŋ˥˩laɪ˧˥ tʊŋ˥˩tɕʰy˥˩.
+./data/AISHELL-3/train/wav/SSB1699/SSB16990040.wav|8|tʰʊŋ˥kwo˥˩ tɕi˥˩swan˥˩ ɕiɑʊ˨˩˦fən˥ hwo˥˩tɤ˧˥lɤ ti˥˩i˥ tɕiɛ˥twan˥˩ ti˥˩sɿ˥˩weɪ˥˩tɤ pʰaɪ˧˥miŋ˧˥.
+./data/AISHELL-3/train/wav/SSB0666/SSB06660167.wav|19|huɑŋ˧˥ɕjɛn˥ʂɤŋ˥ ɕiɑŋ˥˩ tʂʊŋ˥ʂʅ˥˩ tiɑʊ˥˩tʂʰa˧˥ tʂʅ˥˩i˧˥tɕʰi˧˥ tsɿ˥tʂʅ˥˩.
+./data/AISHELL-3/train/wav/SSB1711/SSB17110152.wav|37|ta˥˩tɕja˥ iɛ˨˩˦ meɪ˧˥joʊ˨˩˦ ʂən˧˥mɤ i˧˥han˥˩tɤ.
+./data/AISHELL-3/train/wav/SSB0913/SSB09130037.wav|38|joʊ˨˩˦ i˥miŋ˧˥ ny˨˩˦kʰɤ˥˩hu˥˩ tʰoʊ˧˥pu˥˩ peɪ˥˩ ta˨˩˦pʰwo˥˩.
+./data/AISHELL-3/train/wav/SSB0966/SSB09660266.wav|18|ʂɑŋ˥˩haɪ˨˩˦ njɛn˧˥ɕin˥ tʂɑŋ˨˩˦tɑʊ˥˩ pa˥wan˥˩ haɪ˧˥ tʂɑʊ˥pu˧˥tɑʊ˥˩ kʊŋ˥tɕiɑʊ˥ sɿ˥tɕi˥ njɛn˧˥tɕʰiŋ˥ɻən˧˥ pu˥˩yæn˥˩kan˥˩.
+./data/AISHELL-3/train/wav/SSB0534/SSB05340293.wav|6|tʂɤ˥˩iɑŋ˥˩ta˥˩ fa˥pʰi˧˥tɕʰi˥˩ y˨˩˦ lu˧˥kʰa˨˩˦sɿ˥ swo˨˩˦ ʂu˥˩li˥˩tɤ kɤ˥˩ɻən˧˥ ɕiŋ˧˥ɕiɑŋ˥˩ pu˥˩ɕiɑŋ˥tʂʰən˥˩.
+./data/AISHELL-3/train/wav/SSB0434/SSB04340243.wav|39|mɑʊ˥˩sɿ˥˩ʂʅ˥˩ kɑŋ˥ ɕi˨˩˦wan˧˥tsɑʊ˨˩˦.
+./data/AISHELL-3/train/wav/SSB0379/SSB03790066.wav|40|in˥tsʰɿ˨˩˦ ta˥˩pu˥˩fən˥˩ tɕʰi˨˩˦iɛ˥˩ tsaɪ˥˩ tɕiɛ˥ɕja˥˩laɪ˧˥tɤ san˥kɤ˥˩ two˥yɛ˥˩ toʊ˥iɑʊ˥˩ tɕja˥kʰwaɪ˥˩ ɕiɑʊ˥ʂoʊ˥˩ su˥˩tu˥˩.
+./data/AISHELL-3/train/wav/SSB0502/SSB05020357.wav|41|tɕʰyɛ˥˩ɻən˥˩ ta˨˩˦kʰaɪ˥ wən˧˥tɕjɛn˥˩ kwan˨˩˦li˨˩˦.
+./data/AISHELL-3/train/wav/SSB1020/SSB10200223.wav|42|hu˥hɤ˧˥ hɑʊ˥˩tʰɤ˥˩tɤ i˥yæn˥˩ joʊ˨˩˦ʂən˧˥mɤ.
+./data/AISHELL-3/train/wav/SSB0534/SSB05340162.wav|6|haɪ˧˥joʊ˨˩˦ i˥peɪ˥ su˥ta˧˥ tɕʰi˥˩ʂweɪ˨˩˦.
+./data/AISHELL-3/train/wav/SSB0316/SSB03160460.wav|43|ta˥˩tɕja˥ toʊ˥ʂʅ˥˩ ɕi˥uɑŋ˥˩ ɕyæn˨˩˦tsɤ˧˥tɤ y˧˥ti˥˩ ta˥˩i˥tjɛn˨˩˦əɻ˧˥.
+./data/AISHELL-3/train/wav/SSB1828/SSB18280143.wav|44|hoʊ˥˩laɪ˧˥ʂwo˥ iɑʊ˥˩ pa˨˩˦wo˨˩˦ sʊŋ˥˩tɑʊ˥˩ waɪ˥˩ti˥˩.
+./data/AISHELL-3/train/wav/SSB0710/SSB07100007.wav|45|tʂʰa˧˥iɑŋ˧˥ tsʊŋ˥weɪ˨˩˦tɤkɤ˥.
+./data/AISHELL-3/train/wav/SSB0273/SSB02730127.wav|46|keɪ˨˩˦wo˨˩˦ fɑŋ˥˩ hoʊ˥˩ɕjɛn˧˥tɤkɤ˥.
+./data/AISHELL-3/train/wav/SSB0307/SSB03070249.wav|47|tɑŋ˥ tʰaɪ˥˩kʰʊŋ˥ɻən˧˥ tʂən˥ʂuɑŋ˨˩˦.
+./data/AISHELL-3/train/wav/SSB0780/SSB07800387.wav|48|tan˥˩i˨˩˦ peɪ˨˩˦tɕiŋ˥ ɑʊ˥˩yn˥˩hweɪ˥˩ ku˨˩˦kan˥˩ weɪ˥˩ hɤ˧˥ɕin˥ tsu˨˩˦tʂʰɤŋ˧˥tɤ tʂɤ˥˩tʂʅ˥ tweɪ˥˩u˨˩˦.
+./data/AISHELL-3/train/wav/SSB1585/SSB15850467.wav|16|tʰweɪ˥tʂʰʅ˧˥ san˥kɤ˥˩yɛ˥˩ ʂɑŋ˥˩iŋ˥˩.
+./data/AISHELL-3/train/wav/SSB1024/SSB10240024.wav|17|jɛn˧˥tɕjoʊ˥ tʂʅ˥˩tiŋ˥˩ tʂɤŋ˥˩u˥˩ ɕin˥˩jʊŋ˥˩ ɕin˥˩ɕi˥ kwan˨˩˦li˨˩˦ tʰiɑʊ˧˥li˥˩.
+./data/AISHELL-3/train/wav/SSB0273/SSB02730479.wav|46|tsaɪ˥˩pɑʊ˨˩˦ɕjɛn˨˩˦ iɛ˨˩˦ʂʅ˥˩ i˧˥kɤ˥˩ hən˨˩˦ tʂʊŋ˥˩iɑʊ˥˩tɤ kaɪ˨˩˦ʂan˥˩ tʂʰɑŋ˧˥fu˥˩ nɤŋ˧˥li˥˩tɤ tsʰwo˥˩ʂʅ˥.
+./data/AISHELL-3/train/wav/SSB0018/SSB00180348.wav|49|wo˨˩˦ i˨˩˦weɪ˧˥ lu˧˥kʰa˨˩˦sɿ˥ tʂʰɤŋ˥pu˥˩ɕja˥˩tɕʰy˥˩lɤ.
+./data/AISHELL-3/train/wav/SSB1125/SSB11250101.wav|4|tɕi˥hu˥ i˨˩˦ la˥pʰjɛn˥˩tɤ fɑŋ˥ʂʅ˥˩ liɛ˥˩tʂʰu˥ kɤ˥˩tʂʊŋ˨˩˦ tɕiɛ˧˥tʰu˧˥.
+./data/AISHELL-3/train/wav/SSB0778/SSB07780197.wav|20|ly˨˩˦ɕjoʊ˥˩tʂʅ˥ ljoʊ˧˥hʊŋ˧˥niɛ˥˩ tɕiŋ˥tɕiŋ˥ tɕʰiɛ˥˩iɑŋ˧˥ ʂʅ˥tɕiɛ˨˩˦.
+./data/AISHELL-3/train/wav/SSB0609/SSB06090418.wav|50|fɑŋ˥˩ i˥ʂoʊ˨˩˦kɤ˥ ta˥˩ny˨˩˦ɻən˧˥.
+./data/AISHELL-3/train/wav/SSB0482/SSB04820472.wav|1|tɕin˥njɛn˧˥ pwo˧˥haɪ˨˩˦ i˥˩joʊ˧˥ ʂʅ˥˩tɕjɛn˥˩ fa˥ʂɤŋ˥hoʊ˥˩.
+./data/AISHELL-3/train/wav/SSB0603/SSB06030468.wav|51|u˨˩˦ʂʅ˧˥tɕjoʊ˨˩˦wan˥˩ u˨˩˦tɕʰjɛn˥ tɕjoʊ˨˩˦paɪ˨˩˦ əɻ˥˩ʂʅ˧˥san˥.
+./data/AISHELL-3/train/wav/SSB1125/SSB11250114.wav|4|iɑʊ˥˩ʂʅ˥˩ni˨˩˦ pu˥˩ma˨˩˦ʂɑŋ˥˩ hweɪ˧˥tɕja˥.
+./data/AISHELL-3/train/wav/SSB0666/SSB06660123.wav|19|wo˨˩˦toʊ˥ pu˥˩tʂʅ˥tɑʊ˥˩ ni˨˩˦mən lja˨˩˦tsaɪ˥˩ i˥˩tɕʰi˨˩˦.
+./data/AISHELL-3/train/wav/SSB1056/SSB10560419.wav|52|tʰa˥ taɪ˥˩laɪ˧˥lɤ tɕiŋ˥kwo˥˩ ɕyn˥˩ljɛn˥˩tɤ mu˥˩iɑŋ˧˥tɕʰyæn˨˩˦ pɑŋ˥tʂu˥˩ iŋ˧˥tɕjoʊ˥˩.
+./data/AISHELL-3/train/wav/SSB0315/SSB03150368.wav|3|iɑʊ˥˩pi˨˩˦ tsʰɿ˨˩˦tɕʰjɛn˧˥ jʊŋ˥˩jɛn˧˥sɤ˥˩ laɪ˧˥ tɕʰy˥fən˥ kʰʊŋ˥tɕʰi˥˩ tʂʅ˥˩liɑŋ˥˩ wən˥˩tʰi˧˥ kɤŋ˥˩tɕja˥ tɕiŋ˥tʂwən˨˩˦ kʰɤ˨˩˦ɕiŋ˧˥.
+./data/AISHELL-3/train/wav/SSB0354/SSB03540037.wav|2|in˥weɪ˥˩ moʊ˨˩˦ i˥tsʰɿ˥˩ oʊ˨˩˦ɻan˧˥tɤ ʂʅ˥˩tɕjɛn˥˩.
+./data/AISHELL-3/train/wav/SSB0307/SSB03070416.wav|47|tʂɤ˥˩ ʂʅ˥˩wo˨˩˦tɤ tɕiŋ˥iŋ˧˥ tʂʅ˥tɑʊ˥˩.
+./data/AISHELL-3/train/wav/SSB0632/SSB06320306.wav|53|tɕin˥˩tɕʰi˥ joʊ˨˩˦ ɕiɑʊ˥ɕi˥ lu˥˩ɕy˥˩ tʂʰwan˧˥tʂʰu˥.
+./data/AISHELL-3/train/wav/SSB0935/SSB09350135.wav|54|tɕin˥˩pɑʊ˥˩ u˨˩˦tɕʰy˨˩˦.
+./data/AISHELL-3/train/wav/SSB0342/SSB03420074.wav|15|yɛ˥˩y˥˩ hoʊ˥˩tɤ ny˨˩˦ɻən˧˥.
+./data/AISHELL-3/train/wav/SSB1366/SSB13660321.wav|55|i˥ɕiɛ˥ meɪ˧˥tʰi˨˩˦ joʊ˨˩˦kwan˥ ɕjɛn˥˩tɕja˥˩ liŋ˥˩tɤ ʂwo˥fa˨˩˦ ʂʅ˥˩ u˥˩tɕiɛ˨˩˦.
+./data/AISHELL-3/train/wav/SSB0762/SSB07620483.wav|56|kan˨˩˦pu˥˩kan˨˩˦ tsaɪ˥˩yæn˨˩˦ i˥˩tjɛn˨˩˦.
+./data/AISHELL-3/train/wav/SSB0748/SSB07480356.wav|57|əɻ˧˥ ɕiɑʊ˥feɪ˥˩tʂɤ˨˩˦ tɑʊ˥˩ mən˧˥tjɛn˥˩ ɕiɑŋ˨˩˦ʂoʊ˥˩ fu˧˥u˥˩tɤ tʰʊŋ˧˥ʂʅ˧˥ tɕjoʊ˥˩ kʰɤ˨˩˦i˨˩˦ tɕin˥˩ɕiŋ˧˥ fu˥˩feɪ˥˩ tʂʰɤŋ˧˥tɕiɑʊ˥.
+./data/AISHELL-3/train/wav/SSB1218/SSB12180202.wav|58|kʰɤ˨˩˦i˨˩˦ pa˨˩˦ swo˨˩˦ɕin˥tɤ tɕiɛ˧˥koʊ˥˩ tswo˥˩tʂʰɤŋ˧˥ ʂʅ˥˩pʰin˧˥.
+./data/AISHELL-3/train/wav/SSB1563/SSB15630253.wav|11|ta˨˩˦kʰaɪ˥ fɤŋ˥yɛ˥˩.
+./data/AISHELL-3/train/wav/SSB1837/SSB18370201.wav|59|tʰiŋ˥tʰiŋ˥ in˥yɛ˥˩ tu˧˥tɕiɑʊ˨˩˦ɕi˥˩.
+./data/AISHELL-3/train/wav/SSB0700/SSB07000388.wav|60|sɿ˥˩paɪ˨˩˦ əɻ˥˩ʂʅ˧˥ san˥tjɛn˨˩˦ tɕjoʊ˨˩˦tɕʰi˥.
+./data/AISHELL-3/train/wav/SSB0987/SSB09870269.wav|61|peɪ˨˩˦tɕiŋ˥ ɻu˥˩kʰoʊ˨˩˦ tsʰɑʊ˧˥tɕja˥pɑʊ˨˩˦ tɕi˥tʂʰɑŋ˨˩˦ fɑŋ˥ɕiɑŋ˥˩.
+./data/AISHELL-3/train/wav/SSB0122/SSB01220364.wav|62|iŋ˥tɑŋ˥ miŋ˧˥tɕʰyɛ˥˩ tʂʅ˥˩ʂɑʊ˨˩˦ əɻ˥˩miŋ˧˥ fɤŋ˥ɕjɛn˨˩˦ tsɤ˧˥ɻən˥˩ɻən˧˥.
+./data/AISHELL-3/train/wav/SSB0145/SSB01450080.wav|63|tɕy˥˩ tʂɤŋ˥˩tɕʰyæn˥˩ ɻ˥˩pɑʊ˥˩ tɕi˥˩tʂɤ˨˩˦ liɑʊ˨˩˦tɕiɛ˨˩˦.
+./data/AISHELL-3/train/wav/SSB0966/SSB09660424.wav|18|ni˨˩˦hɤ˧˥ lɑʊ˧˥lwən˧˥ fu˥˩mu˨˩˦ i˥˩tɕʰi˨˩˦tʂu˥˩ two˥tɕjoʊ˨˩˦lɤ.
+./data/AISHELL-3/train/wav/SSB0323/SSB03230139.wav|13|i˥tʂʰɑŋ˨˩˦ fɤŋ˥hwa˥ɕyɛ˨˩˦yɛ˥˩tɤ ʂʅ˥˩.
+./data/AISHELL-3/train/wav/SSB0315/SSB03150272.wav|3|tʂɤ˥˩tsu˨˩˦ mɤŋ˧˥tʰu˧˥ tsaɪ˥˩ uɑŋ˨˩˦lwo˥˩ tjɛn˨˩˦tɕi˥ tʂwan˨˩˦fa˥tjɛn˨˩˦tsan˥˩ i˨˩˦ tʂʰɑʊ˥kwo˥˩ i˥liŋ˧˥ wan˥˩tsʰɿ˥˩.
+./data/AISHELL-3/train/wav/SSB0607/SSB06070210.wav|64|kɑʊ˥˩su˥˩wo˨˩˦ tʰa˥haɪ˧˥ hwo˧˥tʂɤ.
+./data/AISHELL-3/train/wav/SSB0758/SSB07580180.wav|65|ɻweɪ˥˩ʂʅ˥˩ tʂʊŋ˥piɑʊ˨˩˦iɛ˥˩ ɻən˧˥ʂʅ˥˩ joʊ˨˩˦ɻən˧˥ tɕiŋ˥hu˥ lɑŋ˧˥laɪ˧˥lɤ.
+./data/AISHELL-3/train/wav/SSB1125/SSB11250418.wav|4|uɑŋ˧˥tɕin˥tʂan˥˩ ʂu˥tɕi˧˥ joʊ˨˩˦ʂən˧˥mɤ.
+./data/AISHELL-3/train/wav/SSB0614/SSB06140309.wav|66|tɕjoʊ˨˩˦ʂʅ˧˥i˥wan˥˩ i˥tɕʰjɛn˥ tɕjoʊ˨˩˦paɪ˨˩˦ sɿ˥˩ʂʅ˧˥i˥.

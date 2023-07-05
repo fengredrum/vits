@@ -14,3 +14,4 @@ datasets/
 test.py
 *.bkp
 *.dtmp
+*.pth

@@ -11,3 +11,4 @@ pypinyin>=0.44.0
 jieba>=0.42.1
 cn2an>=0.5.17
 opencc>=1.1.1
+streamlit>=1.24.0

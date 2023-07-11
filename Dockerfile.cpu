@@ -13,9 +13,11 @@ COPY requirements.txt /
 RUN pip3 install --no-cache-dir --upgrade pip && \
     pip3 install --no-cache-dir --user -r /requirements.txt
 
-# # Stage 2: Runtime
-# FROM python:3.8-slim AS runtime-image
-# COPY --from=compile-image /root/.local /root/.local
+# Stage 2: Runtime
+FROM python:3.8-slim AS runtime-image
+COPY --from=compile-image /root/.local /root/.local
+COPY --from=compile-image /usr/lib/ /usr/lib/
+COPY --from=compile-image /usr/bin/espeak /usr/bin/espeak
 # Copy cantonese lexicon
 COPY opencc/jyutjyu.json /root/.local/lib/python3.8/site-packages/opencc/clib/share/opencc/jyutjyu.json
 COPY opencc/jyutjyu.ocd2 /root/.local/lib/python3.8/site-packages/opencc/clib/share/opencc/jyutjyu.ocd2
@@ -23,3 +25,4 @@ COPY opencc/jyutjyu.ocd2 /root/.local/lib/python3.8/site-packages/opencc/clib/sh
 ENV TZ=Asia/Shanghai \
     PATH=/root/.local/bin:$PATH \
     PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
+    

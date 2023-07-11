@@ -67,6 +67,8 @@ class TextAudioLoader(torch.utils.data.Dataset):
     def get_audio(self, filename):
         # audio, sampling_rate = load_wav_to_torch(filename)
         audio_norm, sampling_rate = torchaudio.load(filename)
+        if audio_norm.shape[0] > 1:
+            audio_norm = torch.mean(audio_norm, dim=0).unsqueeze(0)
         
         if sampling_rate != self.sampling_rate:
             resampler = T.Resample(sampling_rate, self.sampling_rate, dtype=audio_norm.dtype)
@@ -207,12 +209,19 @@ class TextAudioSpeakerLoader(torch.utils.data.Dataset):
         return (text, spec, wav, sid)
 
     def get_audio(self, filename):
-        audio, sampling_rate = load_wav_to_torch(filename)
+        # audio, sampling_rate = load_wav_to_torch(filename)
+        audio_norm, sampling_rate = torchaudio.load(filename)
+        if audio_norm.shape[0] > 1:
+            audio_norm = torch.mean(audio_norm, dim=0).unsqueeze(0)
+        
         if sampling_rate != self.sampling_rate:
-            raise ValueError("{} {} SR doesn't match target {} SR".format(
-                sampling_rate, self.sampling_rate))
-        audio_norm = audio / self.max_wav_value
-        audio_norm = audio_norm.unsqueeze(0)
+            resampler = T.Resample(sampling_rate, self.sampling_rate, dtype=audio_norm.dtype)
+            audio_norm = resampler(audio_norm)
+        # if sampling_rate != self.sampling_rate:
+        #     raise ValueError("{} {} SR doesn't match target {} SR".format(
+        #         sampling_rate, self.sampling_rate))
+        # audio_norm = audio / self.max_wav_value
+        # audio_norm = audio_norm.unsqueeze(0)
         spec_filename = filename.replace(".wav", ".spec.pt")
         if os.path.exists(spec_filename):
             spec = torch.load(spec_filename)

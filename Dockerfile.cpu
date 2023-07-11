@@ -16,6 +16,10 @@ RUN pip3 install --no-cache-dir --upgrade pip && \
 # # Stage 2: Runtime
 # FROM python:3.8-slim AS runtime-image
 # COPY --from=compile-image /root/.local /root/.local
-# # Make sure scripts in .local are usable:
-# ENV TZ=Asia/Shanghai \
-#     PATH=/root/.local/bin:$PATH
+# Copy cantonese lexicon
+COPY opencc/jyutjyu.json /root/.local/lib/python3.8/site-packages/opencc/clib/share/opencc/jyutjyu.json
+COPY opencc/jyutjyu.ocd2 /root/.local/lib/python3.8/site-packages/opencc/clib/share/opencc/jyutjyu.ocd2
+# Make sure scripts in .local are usable:
+ENV TZ=Asia/Shanghai \
+    PATH=/root/.local/bin:$PATH \
+    PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python

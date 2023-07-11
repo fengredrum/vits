@@ -10,6 +10,9 @@ build
 *.c
 monotonic_align/monotonic_align
 data/
+datasets/
+saved/
 test.py
 *.bkp
 *.dtmp
+*.pth

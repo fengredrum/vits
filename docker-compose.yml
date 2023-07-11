@@ -21,5 +21,5 @@ services:
     working_dir: /app
     volumes:
       - ./:/app
-      - ~/data/LJSpeech-1.1/:/data
+      - /home/ubuntu/LLM/:/data
     command: bash

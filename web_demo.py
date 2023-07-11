@@ -13,9 +13,10 @@ st.set_page_config(
     page_icon="👋",
 )
 
+
 def load_model_configs():
     config_path = "./configs/mix_base.json"
-    model_path = "./saved/G_118000.pth"
+    model_path = "./pretrained_models/pretrained_cantonese.pth"
 
     hps_ms = utils.get_hparams_from_file(config_path)
     net_g_ms = SynthesizerTrn(
@@ -28,12 +29,14 @@ def load_model_configs():
     utils.load_checkpoint(model_path, net_g_ms, None)
     return net_g_ms, hps_ms
 
+
 def get_text(text, hps):
     text_norm = text_to_sequence(text, hps.data.text_cleaners)
     if hps.data.add_blank:
         text_norm = commons.intersperse(text_norm, 0)
     text_norm = torch.LongTensor(text_norm)
     return text_norm
+
 
 def inference(net_g_ms, hps_ms, text_norm, sid=4):
     sid = torch.LongTensor([sid])  # speaker identity
@@ -43,15 +46,16 @@ def inference(net_g_ms, hps_ms, text_norm, sid=4):
         x_tst = stn_tst.unsqueeze(0)
         x_tst_lengths = torch.LongTensor([stn_tst.size(0)])
         audio = net_g_ms.infer(x_tst, x_tst_lengths, sid=sid,
-                            noise_scale=.667, noise_scale_w=0.8, length_scale=1)[0][0]
+                               noise_scale=.667, noise_scale_w=0.8, length_scale=1)[0][0]
     return audio.data.cpu().float().numpy()
 
+
 samples = [
-        "宜家唔系事必要你讲，但系你所讲嘅说话将会变成呈堂证供。",
-        "各个国家有各个国家嘅国歌",
-        "各个国家有各个国家的国歌",
-        "为研判未来科技发展趋势、前瞻谋划和布局前沿科技领域与方向提供依据",
-    ]
+    "宜家唔系事必要你讲，但系你所讲嘅说话将会变成呈堂证供。",
+    "各个国家有各个国家嘅国歌",
+    "各个国家有各个国家的国歌",
+    "为研判未来科技发展趋势、前瞻谋划和布局前沿科技领域与方向提供依据",
+]
 
 if __name__ == "__main__":
 
@@ -84,7 +88,7 @@ if __name__ == "__main__":
         cantonese_text,
         height=50,
     )
-    
+
     if mandarin_text != 'None':
         mandarin_text = '[ZH]' + mandarin_text + '[ZH]'
     else:
@@ -103,7 +107,7 @@ if __name__ == "__main__":
         else:
             speaker = str(i)
         speakers.append(speaker)
-    
+
     sid = st.radio(
         "请选择说话人",
         speakers,
@@ -117,6 +121,3 @@ if __name__ == "__main__":
                 net_g_ms, hps_ms = load_model_configs()
                 audio = inference(net_g_ms, hps_ms, text_norm, sid=int(sid))
             st.audio(audio, sample_rate=hps_ms.data.sampling_rate)
-
-    
-    

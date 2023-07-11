@@ -14,4 +14,4 @@ services:
     working_dir: /app
     volumes:
       - ./:/app
-    command: bash
+    command: streamlit run web_demo.py --server.address "0.0.0.0" --server.port 8000
